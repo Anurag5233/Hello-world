@@ -1,1 +1,53 @@
 Here I am keeping my add updates in cloud.
+
+-----------------------MAVEN_FRESCO____PLAY
+19:30
+Maven is a comprehensive build management tool that helps developers in performing the following tasks related to any project.
+Compiling the source code.
+Running the test.
+Packaging the code into jar files.
+Performing related activities such as,
+19:31
+Deploying the final product.
+19:31
+Verify Maven Installation using
+$ mvn –version or $mvn --version or $mvn -v
+19:32
+Maven Core Concepts
+Maven works around the following core concepts:
+Project Object Model (POM) is the XML representation of the project where all the dependencies and configuration details are stored. POM plays a major role in ensuring that all the project resource references are maintained.
+Build Life Cycles, Phases, Goals - Maven build process is composed of many build life cycles. Each life cycle has one or more phases. Each phase has one or many associated goals.
+19:34
+Maven Core Concepts
+Maven works around the following core concepts:
+Project Object Model (POM) is the XML representation of the project where all the dependencies and configuration details are stored. POM plays a major role in ensuring that all the project resource references are maintained.
+Build Life Cycles, Phases, Goals - Maven build process is composed of many build life cycles. Each life cycle has one or more phases. Each phase has one or many associated goals.
+19:38
+POM File
+Each project has a corresponding POM file that is located in the root directory.
+Whenever a goal (a specific build task) has to be executed, Maven looks for the configuration details in POM.
+Project details can be represented in the form of XML file called pom.xml.
+It is the fundamental unit that contains information about the project.
+It holds all the resources required for a build such as source code location, test source, dependency details such as external or internal dependency etc.
+
+
+Make a note of something
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thread
+﻿backend-developer-track
+
+
